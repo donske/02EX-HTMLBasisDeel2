@@ -46,7 +46,7 @@ Open het bestand **opdracht03.html** en zorg dat je onderstaand resultaat bekomt
 - maak gebruik van een description list
 - geef aan dat de termen HTML en CSS afkortingen zijn
 
-  ![oefening04.PNG](images/oefening04.PNG 'oefening04')
+  ![oefening04.PNG](images/oefening04-bd.png 'oefening04')
 <br><br>
 
 ### Opdracht 4
@@ -55,7 +55,7 @@ Open het bestand **opdracht04.html** en volg de instructies. Zorg dat je onderst
 - vul de afkortingen voor de verschillende gassen aan
 - gebruik **Named Character References** voor de **speciale tekens** Euro, Yen, Pound en Dollar
 
-  ![oefening05.PNG](images/oefening05.PNG 'oefening05')
+  ![oefening05.PNG](images/oefening05-bd.png 'oefening05')
 <br><br>
 
 ### Opdracht 5
