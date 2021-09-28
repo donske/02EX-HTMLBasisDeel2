@@ -135,46 +135,65 @@ Nu zou je volgende structuur moeten hebben in de map VanderBeken:
 
 ---
 ### **index.html**
-- Begin met een logische opbouw: header - nav – main – footer – article –aside – section - …
-- De content (tekst) vind je in het bestand TekstVanderBeken.txt
 
-![vdb02](images/vdb02.png)
+Maak nu de webpagina **index.html**:
+
+- Het grootste deel van de content (tekst) vind je in het bestand TekstVanderBeken.txt
+- Vergeet ook de logische blokken: head, nav, ... enz. niet.
+
+Een schermafbeelding van het te bekomen resultaat vind je hieronder, alsook een schermafbeelding van 
+de website met CSS toegevoegd (komt in de komende lessen aan bod).
+
+![index.html](images/vdb-index-bd.png)
+<br><br>
+
+![index.html](images/vdb-index-completed.png)
 <br><br>
 
 ---
 
 ### **over_ons.html**
 
-![vdb03](images/vdb03.png)
+Maak de webpagina **over_ons.html**:
+
+- Het grootste deel van de content (tekst) vind je in het bestand TekstVanderBeken.txt
+- Vergeet ook de logische blokken: head, nav, ... enz. niet.
+
+Een schermafbeelding van het te bekomen resultaat vind je hieronder. Alsook een schermafbeelding van 
+de website met CSS toegevoegd (komt in de komende lessen aan bod).
+
+![over_ons.html](images/vdb-over_ons-bd.png)
+<br><br>
+
+![over_ons.html](images/vdb-over_ons-completed.png)
 <br><br>
 
 ---
 
 ### **realisaties.html**
 
+Maak de webpagina **realisaties.html**:
+
 - De gebruikte afbeeldingen zijn thumb_appartement.jpg, thumb_muurtechniek.jpg, …
-- Als je op thumb_appartement.jpg klikt, kom je op de pagina schilderwerken_appartement.html terecht. Analoog bij de andere drie afbeeldingen.
-- Voeg in de schilderwerken_....html pagina’s de correcte verwijzing naar de webpagina met de volledige afbeelding toe.
+- Als je op thumb_appartement.jpg klikt, kom je op de pagina **schilderwerken_appartement.html** terecht. Analoog bij de andere drie afbeeldingen.
 
-![vdb04](images/vdb04.png)
+Een schermafbeelding van **realisaties.html** en van **schilderwerken_appartement.html** vind je hieronder.
 
-Voorbeeld van **schilderwerken_appartement.html**
+![vdb04](images/vdb-realisaties-bd.png)
 
-![vdb05](images/vdb05.png)
+Schermafbeelding van **schilderwerken_appartement.html**
 
-<br><br>
+![schilderwerken_appartement.html](images/vdb-schilderwerken_appartement-bd.png)
 
----
-### **partners.html**
-
-![vdb06](images/vdb06.png)
 <br><br>
 
 ---
 
 ### **contact.html**
 
-![vdb07](images/vdb07.png)
+Maak de webpagina **contact.html**. Gebruik Emmet <kbd>lorem&lt;tab&gt;</kbd> om de lorem ipsum-tekst te bekomen.
+
+![contact.html](images/vdb-contact-bd.png)
 
 <br><br>
 
