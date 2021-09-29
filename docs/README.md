@@ -77,18 +77,29 @@ Open de pagina **opdracht05.html**. Op de pagina vind je in de main enkele artic
 <br><br>
 
 ---
-## Oefening 3: Hyperlinks en afbeeldingen
+## Oefening 3: Paginastructuur
 
-Open in de map **oefening03-hyperlinks-afbeeldingen** de pagina **index.html**. De pagina bevat een thumbnail afbeelding. Pas de pagina als volgt aan
+Bekijk onderstaande afbeelding (site https://www.vrt.be/vrtnws/nl/)
+- welke onderdelen herken je op de pagina? Denk aan titel, header, footer, main, nav, section/article, ...
+- herhaal deze oefening voor enkele andere pagina's die je zelf kiest
+- maak er vanaf nu een gewoonte van om deze zaken te zoeken/herkennen als je op het internet surft
+
+![vrt.PNG](../docs/images/vrt.PNG 'vrt')
+<br><br>
+
+---
+## Oefening 4: Hyperlinks en afbeeldingen
+
+Open in de map **oefening04-hyperlinks-afbeeldingen** de pagina **index.html**. De pagina bevat een thumbnail afbeelding. Pas de pagina als volgt aan
 - wanneer op de thumbnail geklikt wordt dan opent de grote foto _elephants.png_ in een apart venster
 - wanneer op 'download picture' wordt geklikt dan wordt de grote foto gedownload
 - stel de icon _favicon.ico_ uit de map images in als **favicon**
 <br><br>
 
 ---
-## Oefening 4: Afbeeldingen - wolven
+## Oefening 5: Afbeeldingen - wolven
 
-- Maak in de map **oefening04-afbeeldingen-wolven** een pagina **index.html** en een submap genaamd **images**. 
+- Maak in de map **oefening05-afbeeldingen-wolven** een pagina **index.html** en een submap genaamd **images**. 
 - Zoek een afbeelding van een tsjechoslowaakse wolfhond, een saarloos wolfhond en een wolf. 
 - Schaal elke afbeelding naar een breedte van 500px. *Je kan dit online doen of via een eenvoudig tekenprogramma zoals MS Paint*
 - Bewaar deze afbeeldingen in de map **images** en bouw je pagina op volgens onderstaande screenshot.
@@ -97,14 +108,13 @@ Open in de map **oefening03-hyperlinks-afbeeldingen** de pagina **index.html**. 
 
 ---
 
-
-## Oefening 5: Schilderwerken Vander Beken
+## Oefening 6: Schilderwerken Vander Beken
 
 Deze oefening is een website met meerdere pagina's.
 
 Denk eraan: valideer steeds je code op [https://validator.w3.org](https://validator.w3.org)
 
-Maak deze oefening in de map **oefening05-vanderBeken**. Merk op dat deze map reeds is aangemaakt en reeds alle afbeeldingen bevat die in de oefening worden gebruikt.
+Maak deze oefening in de map **oefening06-vanderBeken**. Merk op dat deze map reeds is aangemaakt en reeds alle afbeeldingen bevat die in de oefening worden gebruikt.
 
 **Maak je folder structuur als volgt aan.**
 
@@ -199,9 +209,9 @@ Maak de webpagina **contact.html**. Gebruik Emmet <kbd>lorem&lt;tab&gt;</kbd> om
 
 ---
 
-### (extra) oefening 6: Agro- en biotechnologie
+### (extra) oefening 7: Agro- en biotechnologie
 
-Open pagina **index.html** in de map **oefening06-agro-en-bio**.
+Open pagina **index.html** in de map **oefening07-agro-en-bio**.
 - zorg dat bij een klik op "Agro- en biotechnologie" (het volledige article moet aanklikbaar zijn) de pagina agro-en-bio.html wordt geopend; deze pagina bevindt zich reeds in de map opleidingen
 - zorg dat in de pagina **agro-en-bio.html** 'Terug naar overzicht' een hyperlink wordt, bij een klik op de link komt de gebruiker terug terecht op **index.html**.
 - maak het HoGent-logo aanklikbaar; bij het aanklikken wordt de website van hogent.be geopend in een nieuw venster
