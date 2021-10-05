@@ -99,7 +99,7 @@ Open in de map **oefening04-hyperlinks-afbeeldingen** de pagina **index.html**. 
 ---
 ## Oefening 5: Afbeeldingen - wolven
 
-- Maak in de map **oefening05-afbeeldingen-wolven** een pagina **index.html** en een submap genaamd **images**. 
+- Maak de map **oefening05-afbeeldingen-wolven** aan en voeg een pagina **index.html** en een submap genaamd **images** toe. 
 - Zoek een afbeelding van een tsjechoslowaakse wolfhond, een saarloos wolfhond en een wolf. 
 - Schaal elke afbeelding naar een breedte van 500px. *Je kan dit online doen of via een eenvoudig tekenprogramma zoals MS Paint*
 - Bewaar deze afbeeldingen in de map **images** en bouw je pagina op volgens onderstaande screenshot.
