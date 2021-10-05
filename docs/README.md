@@ -26,7 +26,7 @@ De pagina **opdracht02.html** in map **oefening01** werd niet goed opgesteld, ze
 
 ### Opdracht 1
 
-Maak in de map **oefening01** een nieuw bestand **opdracht01.html**. Volg onderstaande stappen om tot het getoonde resultaat te komen
+Maak in de map **oefening02** een nieuw bestand **opdracht01.html**. Volg onderstaande stappen om tot het getoonde resultaat te komen
 - maak gebruik van **Emmet** om het skelet van de pagina te creëren
 - pas in het **head**-element de titel en taal aan
 - pas de **body** aan
