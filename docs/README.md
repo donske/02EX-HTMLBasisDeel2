@@ -132,7 +132,7 @@ Maak deze oefening in de map **oefening06-vanderBeken**. Merk op dat deze map re
     - contact.html 
 
     Opmerking: alle titles van de pagina's (zichtbaar in het tabblad van je browser) zijn *Schilderwerken Vander Beken*.
-3. Maak in de realisaties map 5 nieuwe bestanden aan:
+3. Maak in de realisaties map 4 nieuwe bestanden aan:
     - schilderwerken_appartement.html
     - schilderwerken_muurtechniek.html
     - schilderwerken_toonzaal.html
